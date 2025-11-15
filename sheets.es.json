@@ -1,0 +1,39 @@
+[
+  {
+    "id": "calefaccion",
+    "title": "Instrucciones Calefacción",
+    "icon": "🔥",
+    "label": "Calefacción",
+    "text": "La calefacción se controla desde el termostato ubicado en la sala, justo a la izquierda de la puerta del dormitorio. Tiene dos ruedas, la superior enciende o apaga la calefacción y la de abajo permite regular la temperatura. La temperatura recomendad es de 22ºC y viene indicada por el punto del regulador de la parte inferior. En cuanto al interruptor superior, tiene tres posibles posiciones:\n\n - Izquierda: calefacción APAGADA\n\n - Centro (icono sol): calefacción encendida. La temperatura deseada se regula con la rueda inferior.\n\n - Derecha (icono reloj): sirve para programar la calefacción. Si deseáis programarla, decídnoslo y os ayudaremos encantados.",
+    "image": "images/calefaccion.png",
+    "alt": "Panel de control de la calefacción"
+  },
+  {
+    "id": "toldo",
+    "title": "Instrucciones Toldo",
+    "icon": "⛱️😎",
+    "label": "Toldo",
+    "text": "Los toldos se controlan desde el mando que está a la izquierda de la puerta de la sala que da a la terraza. La terraza tiene tres toldos que se pueden controlar independientemente mediante los botones de la izquierda. Se puede activar uno o varios toldos simultáneamente. Cuando un toldo está seleccionado se ilumina el pulsador en color verde. Para desplegar o recoger los toldos pulsar los botones de arriba (replegar) o abajo (desplegar). Si se pulsa el botón “my” estando el toldo parado, baja automáticamente hasta la barandilla.",
+    "image": "images/placeholder-2.jpg",
+    "alt": "Panel de control del toldo"
+  },
+  {
+    "id": "consejos",
+    "title": "Consejos",
+    "icon": "💡",
+    "label": "Consejos",
+    "text": "Las imágenes son adaptables. Mantén el texto conciso. Asegura objetivos táctiles grandes. Prueba en vertical y horizontal.",
+    "image": "images/placeholder-3.jpg",
+    "alt": "Fondo con degradado suave"
+  }
+,
+  {
+    "id": "comodidades",
+    "title": "Comodidades",
+    "icon": "🧺",
+    "label": "Comodidades",
+    "text": "Esta ficha enumera servicios y normas de la casa.\n\n• Wi‑Fi: la red y la contraseña están en la nota de bienvenida.\n• Salida: por favor carga el lavavajillas y saca la basura.\n• Horario de silencio: 22:00–8:00.",
+    "image": "images/placeholder-4.jpg",
+    "alt": "Degradado abstracto en tonos azules"
+  }
+]

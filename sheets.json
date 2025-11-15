@@ -1,0 +1,23 @@
+[
+  {
+    "id": "intro",
+    "title": "Getting Started",
+    "text": "This mobile-friendly web app shows information sheets with a title, text, and image. Use the bottom toolbar to navigate.",
+    "image": "images/placeholder-1.jpg",
+    "alt": "Abstract colorful gradient background"
+  },
+  {
+    "id": "editing",
+    "title": "Editing Content",
+    "text": "Open sheets.json and add items to the array. Each sheet accepts a title, text (\n\n for new paragraphs), and an image URL.",
+    "image": "images/placeholder-2.jpg",
+    "alt": "Soft gradient background"
+  },
+  {
+    "id": "tips",
+    "title": "Tips",
+    "text": "Images are responsive. Keep text concise for small screens. Ensure tap targets are large. Test in portrait and landscape.",
+    "image": "images/placeholder-3.jpg",
+    "alt": "Smooth gradient wallpaper"
+  }
+]

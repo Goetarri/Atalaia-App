@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Info Sheets</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:," />
+</head>
+<body>
+  <header id="app-header" class="app-header" role="banner">
+    <div class="title" id="sheet-title" aria-live="polite">Info Sheets</div>
+    <div class="lang-wrap">
+      <label for="lang-select" class="visually-hidden">Language</label>
+      <select id="lang-select" aria-label="Language selector">
+        <option value="en">EN</option>
+        <option value="es">ES</option>
+      </select>
+    </div>
+  </header>
+
+  <main id="app-main" class="app-main" role="main">
+    <article id="sheet" class="sheet" aria-labelledby="sheet-title">
+      <section class="sheet-text" id="sheet-text"></section>
+      <figure class="sheet-image-wrap">
+        <img id="sheet-image" class="sheet-image" alt="" loading="lazy" />
+        <figcaption id="sheet-image-caption" class="visually-hidden"></figcaption>
+      </figure>
+    </article>
+  </main>
+
+  <nav id="toolbar" class="toolbar" role="navigation" aria-label="Sheet navigation">
+    <div id="sheet-buttons" class="sheet-buttons" role="tablist" aria-label="Sheets"></div>
+  </nav>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
