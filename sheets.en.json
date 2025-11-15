@@ -13,7 +13,7 @@
     "title": "Awning Control",
     "icon": "⛱️",
     "label": "Awning",
-    "text": "Open sheets.en.json and add items to the array. Each sheet accepts a title, text (\n\n for new paragraphs), and an image URL.",
+    "text": "The awnings are controlled from the remote control located to the left of the living room door that leads to the terrace. The terrace has three awnings, which can be controlled independently using the buttons on the left side of the remote.\n\nOne or more awnings can be activated simultaneously. When an awning is selected, its corresponding button illuminates green. To extend or retract the awnings, press the top button (retract) or the bottom button (extend). If the 'my' button is pressed while the awning is stationary, it will automatically lower to the railing level.",
     "image": "images/placeholder-2.jpg",
     "alt": "Awning Controller"
   },
