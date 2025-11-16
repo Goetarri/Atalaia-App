@@ -5,7 +5,7 @@
     "icon": "🌡️",
     "label": "Heating",
     "text": "The heating is controlled from the thermostat located in the living room, just to the left of the bedroom door. It has two dials: the top one turns the heating on or off, and the bottom one allows you to adjust the temperature. The recommended temperature is 22ºC and is indicated by the dot on the lower knob.\n\nThe top dial has three possible positions:\n\n - Left (Moon Icon): Heating OFF.\n\n - Center (Sun Icon): Heating ON. The desired temperature is regulated using the lower dial.\n\n - Right (Clock Icon): Used to program the heating. If you wish to program it, please let us know and we will be happy to help you.",
-    "image": "images/calefaccion.png",
+    "image": "images/heating.png",
     "alt": "Heating controller"
   },
   {
@@ -14,7 +14,7 @@
     "icon": "⛱️",
     "label": "Awning",
     "text": "The awnings are controlled from the remote control located to the left of the living room door that leads to the terrace. The terrace has three awnings, which can be controlled independently using the buttons on the left side of the remote.\n\nOne or more awnings can be activated simultaneously. When an awning is selected, its corresponding button illuminates green. To extend or retract the awnings, press the top up-arrow (retract) or the bottom down-arrow (extend). The 'my' button stops the movement. If the 'my' button is pressed while the awning is stationary, it will automatically move down to the railing level.",
-    "image": "images/placeholder-2.jpg",
+    "image": "images/awning.png",
     "alt": "Awning Controller"
   },
   {
