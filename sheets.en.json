@@ -4,7 +4,7 @@
     "title": "Heating Control",
     "icon": "🌡️",
     "label": "Heating",
-    "text": "The heating is controlled from the thermostat located in the living room, just to the left of the bedroom door. It has two dials: the top one turns the heating on or off, and the bottom one allows you to adjust the temperature. The recommended temperature is 22ºC and is indicated by the dot on the lower regulator.\n\nThe top switch has three possible positions:\n\n - Left (Moon Icon): Heating OFF.\n\n - Center (Sun Icon): Heating ON. The desired temperature is regulated using the lower dial.\n\n - Right (Clock Icon): Used to program the heating. If you wish to program it, please let us know and we will be happy to help you.",
+    "text": "The heating is controlled from the thermostat located in the living room, just to the left of the bedroom door. It has two dials: the top one turns the heating on or off, and the bottom one allows you to adjust the temperature. The recommended temperature is 22ºC and is indicated by the dot on the lower knob.\n\nThe top dial has three possible positions:\n\n - Left (Moon Icon): Heating OFF.\n\n - Center (Sun Icon): Heating ON. The desired temperature is regulated using the lower dial.\n\n - Right (Clock Icon): Used to program the heating. If you wish to program it, please let us know and we will be happy to help you.",
     "image": "images/calefaccion.png",
     "alt": "Heating controller"
   },
