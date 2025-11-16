@@ -13,7 +13,7 @@
     "title": "Instrucciones Toldo",
     "icon": "⛱️",
     "label": "Toldo",
-    "text": "Los toldos se controlan desde el mando que está a la izquierda de la puerta de la sala que da a la terraza. La terraza tiene tres toldos que se pueden controlar independientemente mediante los botones de la izquierda. Se puede activar uno o varios toldos simultáneamente. Cuando un toldo está seleccionado se ilumina el pulsador en color verde. Para desplegar o recoger los toldos pulsar los botones de arriba (replegar) o abajo (desplegar). Si se pulsa el botón “my” estando el toldo parado, baja automáticamente hasta la barandilla.",
+    "text": "Los toldos se controlan desde el mando que está a la izquierda de la puerta de la sala que da a la terraza. La terraza tiene tres toldos que se pueden controlar independientemente mediante los botones de la izquierda. Se puede activar uno o varios toldos simultáneamente. Cuando un toldo está seleccionado se ilumina el pulsador en color verde. Para desplegar o recoger los toldos pulsar los botones de arriba (replegar) o abajo (desplegar). El botón 'my' detiene el movimiento. Si se pulsa el botón 'my' estando el toldo parado, baja automáticamente hasta la barandilla.",
     "image": "images/placeholder-2.jpg",
     "alt": "Panel de control del toldo"
   },
