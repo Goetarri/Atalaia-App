@@ -18,13 +18,13 @@
     "alt": "Panel de control del toldo"
   },
   {
-    "id": "consejos",
-    "title": "Consejos",
-    "icon": "💡",
-    "label": "Consejos",
-    "text": "Las imágenes son adaptables. Mantén el texto conciso. Asegura objetivos táctiles grandes. Prueba en vertical y horizontal.",
-    "image": "images/placeholder-3.jpg",
-    "alt": "Fondo con degradado suave"
+    "id": "lavadora",
+    "title": "Instrucciones Lavadora",
+    "icon": "images/washing.png",
+    "label": "Lavadora",
+    "text": "A continuación se indican las instrucciones para poner la lavadora.",
+    "image": "images/washing.png",
+    "alt": "Secuencia de instrucciones lavadora"
   }
 ,
   {
