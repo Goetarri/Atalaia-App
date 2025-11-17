@@ -1,2 +1,2 @@
-# Atalaia-App
-Information App for guests
+# info-sheets
+Information Sheets for home appliances
